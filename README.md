@@ -52,7 +52,6 @@
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/milad-moradi-745868309
-- 📧 Email: your-email@example.com
 
 ---
 
