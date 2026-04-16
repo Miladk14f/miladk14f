@@ -52,4 +52,4 @@ I enjoy building practical software solutions using C# and .NET, especially desk
 ---
 
 ## 📫 Contact
-Feel free to connect with me on LinkedIn or check out my projects here on GitHub.
+[LinkedIn](https://www.linkedin.com/in/milad-moradi-745868309)
