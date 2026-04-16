@@ -52,4 +52,5 @@ I enjoy building practical software solutions using C# and .NET, especially desk
 ---
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/milad-moradi-745868309)
+- 💼 LinkedIn: [Milad-Moradi](https://www.linkedin.com/in/milad-moradi-745868309)
+
