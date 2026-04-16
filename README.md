@@ -1,6 +1,5 @@
-# Hi, I'm Milad Moradi 👋
-
-Full-Stack & Software Development student with a strong focus on .NET technologies, backend systems, and database-driven applications. Passionate about building clean, efficient, and scalable software solutions.
+<h1 align="center">Hi 👋, I'm Milad Moradi</h1>
+<h3 align="center">Aspiring Software Engineer | C# • .NET • SQL | Full-Stack Developer in Progress</h3>
 
 ---
 
