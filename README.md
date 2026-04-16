@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milad Moradi</h1>
-<h3 align="center">Aspiring Software Engineer | C# • .NET • SQL | Full-Stack Developer in Progress</h3>
+<h3 align="center">Aspiring Software Engineer | C# • .NET • SQL | Full-Stack Developer</h3>
 
 ---
 
