@@ -1,59 +1,55 @@
-<h1 align="center">Hi 👋, I'm Milad Moradi</h1>
-<h3 align="center">Aspiring Software Engineer | C# • .NET • SQL | Full-Stack Developer in Progress</h3>
+# Hi, I'm Milad Moradi 👋
+
+Full-Stack & Software Development student with a strong focus on .NET technologies, backend systems, and database-driven applications. Passionate about building clean, efficient, and scalable software solutions.
 
 ---
 
-## 🚀 About Me
-- 🎓 IT Student at **Inholland University of Applied Sciences**
-- 💻 Passionate about **software development, databases, and real-world problem solving**
-- 🧠 Strong focus on **C#, .NET, and SQL**
-- 🌍 Based in the Netherlands
-- 📈 Currently improving my skills through projects and hands-on experience
-- 🎯 Goal: Become a professional **Software Engineer / Backend Developer**
+## 💻 Technical Skills
+
+### Programming & Frameworks
+- C#
+- .NET Framework
+- WinForms / WPF
+- C++
+- LINQ / LINQ to SQL
+
+### Web Development
+- HTML5
+- CSS
+
+### Databases
+- SQL
+- Microsoft SQL Server
+- SQL Server Management Studio
+
+### Tools & Platforms
+- Visual Studio / Visual Studio Code
+- Microsoft Azure
+- Linux
+- Trello
+- Visual Paradigm
 
 ---
 
-## 🛠️ Tech Stack
-- 💻 Languages: `C#`, `SQL`, `JavaScript`
-- ⚙️ Frameworks: `.NET`
-- 🌐 Web: `HTML`, `CSS`
-- 🗄️ Databases: `SQL Server`
-- 🧰 Tools: `Git`, `GitHub`, `Visual Studio`
+## 🧠 Core Strengths
+- Problem Solving
+- Analytical Thinking
+- Data Analysis
+- Project Planning
+- Account & Requirements Management
+- Networking Fundamentals
 
 ---
 
-## 📚 Education
-- 🎓 **Inholland University of Applied Sciences**  
-  Bachelor’s Degree – Information Technology (2025 – 2029)
-
-- 🎓 **Wittenborg University of Applied Sciences**  
-  (2024 – 2025)
-
-- 🎓 **Islamic Azad University (West Tehran)**  
-  Computer Science (2022 – 2024)
+## 🎓 Background
+Studying Software Development at Inholland University of Applied Sciences, with additional experience in electronics and computer science fundamentals.
 
 ---
 
-## 💡 What I'm Working On
-- Building **web applications with .NET**
-- Improving **database design & optimization**
-- Learning **full-stack development**
-- Creating real-world projects for my portfolio
+## 📌 Focus
+I enjoy building practical software solutions using C# and .NET, especially desktop and database applications, while continuously improving my backend and system design skills.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/milad-moradi-745868309
-
----
-
-## ⚡ Fun Fact
-I enjoy turning ideas into real applications and continuously pushing myself to learn new technologies.
+## 📫 Contact
+Feel free to connect with me on LinkedIn or check out my projects here on GitHub.
