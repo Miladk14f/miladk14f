@@ -56,12 +56,6 @@ Background in computer science, networking, and electronics fundamentals.
 
 ---
 
-## 📊 GitHub Stats
-
-![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=milad-moradi&show_icons=true&theme=tokyonight)
-
-
----
 
 ## 🔗 Connect with Me
 
